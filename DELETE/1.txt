@@ -1,0 +1,58 @@
+<div class="card mb-4 box-shadow">
+			          <div class="type-plan">
+			            <h4 class="ml-auto text-uppercase">Pro</h4>
+			            <p class="bg-word text-uppercase">PRO</p>
+			          </div>
+			          <div class="card-body">
+			            <h2 class="card-title pricing-card-title"><span class="name-currency">$</span>30<small class="text-muted">monthly</small></h2>
+			            <p class="annually"><span class="name-currency">$</span>300 annually</p>
+			            <p class="card-text">Without any restrictions on a number of strategies, API keys and notifications.</p>
+			            <div class="row card--footer">
+				            <button type="button" class="btn btn-outline-primary btn-buy">Buy</button>
+				            <p class="bonus"></p>
+			        	</div>
+			          </div>
+			        </div>
+			        
+			        <div class="card mb-4 box-shadow">
+			          <div class="type-plan">
+			            <h4 class="ml-auto text-uppercase">Basic</h4>
+			            <p class="bg-word text-uppercase">BASIC</p>
+			          </div>
+			          <div class="card-body">
+			            <h2 class="card-title pricing-card-title"><span class="name-currency">$</span>15<small class="text-muted">monthly</small></h2>
+			            <p class="annually"><span class="name-currency">$</span>150 annually</p>
+			            <p class="card-text">Without any restrictions on a number of strategies.</p>
+			            <div class="row card--footer">
+			            	<div class="col-lg-6 px-0">
+			            		<button type="button" class="btn btn-outline-primary btn-buy">Buy</button>
+			            	</div>
+				            <div class="col-lg-6 text-right px-0">
+				            	<p class="bonus">-30% for <img src="img/logo-bonus.png" alt="logo-bonus"></p>
+				        	</div>
+			        	</div>
+			          </div>
+			        </div>
+			        
+					
+
+			        <div class="card mb-4 box-shadow">
+			          <div class="type-plan">
+			            <h4 class="ml-auto text-uppercase">Free</h4>
+			            <p class="bg-word text-uppercase">FREE</p>
+			          </div>
+			          <div class="card-body">
+			            <p class="forever">FOREVER AND EVER</p>
+			            <div class="card-text-free">
+			            	<ul class="list-unstyled">
+				              <li>Restrictions:</li>
+				              <li>1 simultaneously working strategy,</li>
+				              <li>4 blocks available in the visual strategy,</li>
+				              <li>In 30 days, a strategy will be paused.</li>
+				            </ul>
+			            </div>
+			            <div class="row card--footer">
+			            	<button type="button" class="btn btn-outline-primary btn-buy">Buy</button>
+			          	</div>
+			          </div>
+			        </div>
